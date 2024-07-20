@@ -131,19 +131,23 @@ Select an option, and the program will read the corresponding maze file, find th
 
 ### Original Maze
 
-![Original Maze](images/original_maze.png)
+<p float="left">
+  <img src="assets/Maze1.PNG" width="400" style="margin-right: 400px;" />
+  <img src="assets/Maze2.PNG" width="400" style="margin-left: 400px;" />
+</p>
 
 ### BFS Path
 
-![BFS Path](images/bfs_path.png)
+<img width="500" src="assets/BFS Path.PNG" alt="BFS Path"/>
 
 ### DFS Path
 
-![DFS Path](images/dfs_path.png)
+<img width="500" src="assets/DFS Path.PNG" alt="DFS Path"/>
 
 ### A* Path
 
-![A* Path](images/a_star_path.png)
+
+<img width="500" src="assets/A Path..PNG" alt="A* Path"/>
 
 ## Conclusion
 
